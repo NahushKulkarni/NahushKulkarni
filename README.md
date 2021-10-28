@@ -4,6 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [nahush.in](nahush.in)
 
+- 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, AWS, SQL**
+
 - 📫 How to reach me **nahushkulkarni126@gmail.com**
 
 - 📄 Know about my experiences [https://www.nahush.in/Nahush_Kulkarni_Resume.pdf](https://www.nahush.in/Nahush_Kulkarni_Resume.pdf)
