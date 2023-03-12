@@ -8,7 +8,7 @@ applications on time and within budget. I am a quick learner and enjoy staying a
 trends and best practices.</h3>
 <br />
 
-- 👨‍💻 All of my projects are available at [nahush.in](nahush.in)
+- 👨‍💻 All of my projects are available at [nahush.in](https://www.nahush.in)
 
 - 💬 Ask me about **Python, JavaScript, Flask/Django, ReactJS, Jenkins, Docker and AWS**
 
