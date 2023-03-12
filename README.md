@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nahush Kulkarni</h1>
-<h3 align="center">I am an imminent Computer Engineering graduate (2022) at University of Mumbai. A programming enthusiast, thorough with Desktop Application and Web Development, with a passion for System Softwares.</h3>
+<h3 align="justify">I am a software engineer with a passion for developing innovative solutions. With 2 years of experience in
+fullstack and DevOps engineering, I have honed my skills in designing and building scalable, secure, and
+efficient software systems. I possess understanding of various programming languages, frameworks, and
+technologies, such as Python, JavaScript, Flask/Django, ReactJS, Jenkins, Docker and AWS. In my previous
+roles, I have worked closely with cross-functional teams to develop and deliver complex software
+applications on time and within budget. I am a quick learner and enjoy staying abreast of the latest industry
+trends and best practices.</h3>
 <br />
 
 - 👨‍💻 All of my projects are available at [nahush.in](nahush.in)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, AWS, SQL**
+- 💬 Ask me about **Python, JavaScript, Flask/Django, ReactJS, Jenkins, Docker and AWS**
 
 - 📫 How to reach me **kulkarni@nahush.in**
 
@@ -12,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kulkarni_nahush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulkarni_nahush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/nahushkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nahushkulkarni" height="30" width="40" /></a>
-<a href="https://instagram.com/nahush_the_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahush_the_programmer" height="30" width="40" /></a>
+ <a href="https://instagram.com/nahush_the_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahush_the_programmer" height="30" width="40" /></a>
+<a href="https://twitter.com/kulkarni_nahush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulkarni_nahush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
